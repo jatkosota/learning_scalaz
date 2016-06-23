@@ -1,0 +1,14 @@
+/project/project/
+/project/target/
+/target/
+
+# idea
+.idea
+.idea_modules
+
+# ensime
+.ensime
+.ensime_cache/
+
+# scala
+Main.scala
